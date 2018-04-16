@@ -1,0 +1,311 @@
+#title
+{
+	background-color: #1c334a;
+	height: 9.5em;
+	color: white;
+}
+.style
+{
+	float: right;
+	font-size: 1.5em;
+	margin-top: 0em;
+	margin-right: 0.8em;
+	margin-left: 0.8em;
+	color:white;
+	margin-bottom: 1em;
+}
+#header
+{
+	margin-left: 0.8em;
+	font-size: 4.2em;
+	float: none;
+
+}
+
+img
+{
+	margin-top: 1em;
+	margin-left: 3em;
+	text-align: center;
+	margin-bottom: 0.33em;
+}
+
+
+.title
+{
+	
+	float: right;
+	margin-right: 24em;
+	font-size: 1.5em;
+	margin-top: 4em;
+	color: gray;
+
+}
+#descrip
+{
+	margin-top: 4em;
+}
+.cart
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 300px;
+	border: 0.2em solid #494c50;
+	text-transform: uppercase;
+	width: 200px;
+	font-weight: bold;
+	height: 36px;
+	padding: 15px;
+	background-color: white;
+	margin-top: 45px;
+}
+#top
+{
+	font-weight: bold;
+	font-size: 25px;
+	color: black;
+}
+a
+{
+	text-decoration: none;
+	color: white;
+	cursor: pointer;
+}
+#notWhite
+{
+	text-decoration: underline;
+	color: black;
+	cursor: pointer;
+}
+.orderLink
+{
+	text-decoration: underline;
+	cursor: pointer;
+	color: black;
+}
+#orderHistory
+{
+	text-decoration: none;
+	cursor: pointer;
+	color: black;
+}
+.searchTable
+{
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.match
+{
+	font-size: 1.4em;
+	font-weight: bold;
+
+}
+#cartPic
+{
+	vertical-align: text-bottom;
+	margin-top: 0px;
+	margin-right: 0.33em;
+	background-color: #1c334a;
+
+}
+.cartButtons
+{
+
+	margin-left: auto;
+	margin-right: auto;
+}
+#homePic
+{
+	vertical-align: text-bottom;
+	margin-top: 0px;
+	margin-right: 0.33em;
+	background-color: #1c334a;
+	margin-left: 0.33em;
+}
+#amount
+{
+	outline: none;
+	width: 1.33em;
+	display: inline;
+	float: right;
+	font-size: 2.33em;
+	margin-top: 0.66em;
+	margin-right: 1em;
+	height: 1.33em;
+	color:white;
+	vertical-align: text-bottom;
+	background-color: #1c334a;
+	font-size: 1em;
+	border: none;
+	font-weight: bold;
+
+}
+.cartTable
+{
+	padding-right: 0.33em;
+	padding-left: 0.33em;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	padding-top: 0.33em;
+	border: 0.13em solid black;
+	border-collapse: collapse;
+	
+}
+.cartTable td,th 
+{
+	padding-right: 0.8em;
+
+
+}
+.cartTable td
+{
+	text-align: center;
+}
+.cartTable th
+{
+	text-align: center;
+}
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.cartHeader
+{
+	text-align: center;
+}
+.cartTable tr:nth-child(2n+2)
+{
+	/*background-color: #d3d3d3;*/
+	background-color: #c8d9ea;
+}
+.cartTable tr:nth-child(2n+3)
+{
+	/*background-color: #f0f0f5;*/
+	background-color: #a3bfdc;
+}
+.topTable
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	width: 35%;
+	margin-left: 15.02%;
+
+	margin-top: 2em;
+	padding-top: 0px;
+	border: 0.13em solid black;
+	margin-bottom: 0px;
+}
+
+.topTable tr
+{
+	/*background-color: #f0f0f5;*/
+	background-color: #a3bfdc;
+}
+#checkout
+{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 3.125em;
+	font-size: 1.25em;
+
+}
+table
+{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 4.6875em;
+	padding-top: 0.5625em;
+
+}
+#signUp
+{
+	display: block;
+	font-size: 2em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1.5625em;
+}
+#signin
+{
+	display: block;
+	font-size: 1.33em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1.5625em;
+}
+#final
+{
+	text-align: center;
+	font-size: 2em;
+}
+.reduce
+{
+	width: 15%;
+	color: black;
+
+}
+.buttons
+{
+	background-color: #1c334a;
+	color: white;
+	border:none;
+	font-size: 1.5em;
+	border-radius: 0.9em;
+	margin-left: 1.2em;
+}
+.smallButtons
+{
+	background-color: #1c334a;
+	color: white;
+	border:none;
+	font-size: 0.9em;
+	border-radius: 0.9em;
+	margin-left: 1.2em;
+}
+.smallerButtons
+{
+	background-color: #1c334a;
+	color: white;
+	border:none;
+	font-size: 0.9em;
+	border-radius: 0.9em;
+	margin-left: 1.2em;
+}
+.center
+{
+	text-align: center;
+}
+.centerTable
+{
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.centerTable td
+{
+	padding-right: 6.5em;
+	padding-left: 6.5em;
+	padding-top: 3.5em;
+	padding-bottom: 3.5em;
+}
+.sortTable
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1em;
+
+
+}
+.sortTable td
+{
+	padding-right: 1.5em;
+	padding-bottom: 1em;
+
+}
